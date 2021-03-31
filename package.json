@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "tinymce": "^5.5.1",
     "uid-safe": "1.1.0",
     "xmldom": "^0.4.0"
   }

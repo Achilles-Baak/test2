@@ -12,6 +12,11 @@ native-or-bluebird@~1.1.2:
   resolved "https://registry.yarnpkg.com/native-or-bluebird/-/native-or-bluebird-1.1.2.tgz#3921e110232d1eb790f3dac61bb370531c7d356e"
   integrity sha1-OSHhECMtHreQ89rGG7NwUxx9NW4=
 
+tinymce@^5.5.1:
+  version "5.5.1"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.5.1.tgz#4f24ca6e7b698a3c7418a39ef0f3d613f4a703a4"
+  integrity sha512-z03C8/0TBby68Kp7YUTSCZ0QJINsFCv9U+Cv3TNHg+T1spZ4V6vOIgD0zeTd/xKqkru0P7IOHoeAnOjfpTLq7g==
+
 uid-safe@1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/uid-safe/-/uid-safe-1.1.0.tgz#58d6c5dabf8dfbd8d52834839806c03fd6143232"
