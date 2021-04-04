@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "angular-expressions": "1.1.1",
+    "findup-sync": "0.2.1",
     "netmask": "2.0.0",
     "uid-safe": "1.1.0"
   }
